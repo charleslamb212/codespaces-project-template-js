@@ -27552,12 +27552,12 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 52,
+                            lineNumber: 50,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 51,
+                        lineNumber: 49,
                         columnNumber: 11
                     }, undefined),
                     devDotTo && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27570,12 +27570,12 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 57,
+                            lineNumber: 55,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 56,
+                        lineNumber: 54,
                         columnNumber: 11
                     }, undefined),
                     gitHub && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27588,12 +27588,12 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 62,
+                            lineNumber: 60,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 61,
+                        lineNumber: 59,
                         columnNumber: 11
                     }, undefined),
                     instagram && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27606,12 +27606,12 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 71,
+                            lineNumber: 69,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 66,
+                        lineNumber: 64,
                         columnNumber: 11
                     }, undefined),
                     linkedIn && /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
@@ -27624,18 +27624,18 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                             className: "socialIcon"
                         }, void 0, false, {
                             fileName: "src/Components/Footer.jsx",
-                            lineNumber: 80,
+                            lineNumber: 78,
                             columnNumber: 13
                         }, undefined)
                     }, void 0, false, {
                         fileName: "src/Components/Footer.jsx",
-                        lineNumber: 75,
+                        lineNumber: 73,
                         columnNumber: 11
                     }, undefined)
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Footer.jsx",
-                lineNumber: 43,
+                lineNumber: 41,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("p", {
@@ -27650,13 +27650,13 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
                 ]
             }, void 0, true, {
                 fileName: "src/Components/Footer.jsx",
-                lineNumber: 103,
+                lineNumber: 100,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/Components/Footer.jsx",
-        lineNumber: 32,
+        lineNumber: 30,
         columnNumber: 5
     }, undefined);
 };
