@@ -27527,7 +27527,7 @@ var _linkedinSvgDefault = parcelHelpers.interopDefault(_linkedinSvg);
  */ const Footer = (props)=>{
     const { devDotTo , email , gitHub , instagram , linkedIn , name , primaryColor  } = props;
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-        id: "contact",
+        id: "footer",
         style: {
             display: "flex",
             flexDirection: "column",
@@ -28497,11 +28497,20 @@ const Header = ()=>{
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
+                href: "https://drive.google.com/drive/folders/1MLVy3yKXWd5VYf_-9pG5o0U5Y9fU5kZZdo2peruiJrm8Nou0aRo3FkSTpq57zxIiToJ4gBfO",
+                download: true,
+                children: "Resume"
+            }, void 0, false, {
+                fileName: "src/Components/Header.jsx",
+                lineNumber: 27,
+                columnNumber: 7
+            }, undefined),
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("a", {
                 href: "#contact",
                 children: "Contact"
             }, void 0, false, {
                 fileName: "src/Components/Header.jsx",
-                lineNumber: 27,
+                lineNumber: 28,
                 columnNumber: 7
             }, undefined)
         ]
@@ -28554,7 +28563,7 @@ var _propTypesDefault = parcelHelpers.interopDefault(_propTypes);
  * freely use on your site.
  */ var _lighttrailJpg = require("../images/lighttrail.jpg");
 var _lighttrailJpgDefault = parcelHelpers.interopDefault(_lighttrailJpg);
-const imageAltText = "woman holding laptop standing by server room with glass wall";
+const imageAltText = "a trail of light";
 const Home = ({ name , title  })=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         id: "home",
